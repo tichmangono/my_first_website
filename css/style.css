@@ -1,0 +1,66 @@
+
+body{
+    background: url(../img/img_penguinbackground.jpg);
+    background-repeat: repeat-x repeat-y;
+    background-color:gray;
+    font-family:Times New Roman;
+    margin-left:150px;
+
+    
+}
+
+a   {
+    color: rgb(0, 204, 255); 
+    text-decoration: underline, bold; 
+    background-color: None;
+    
+}
+
+h1  {
+    color: black; 
+    text-decoration: underline; 
+    text-shadow:gray; 
+    background-color:none;
+    margin-left:50px;
+}
+
+img {
+    float:middle;
+    margin-left:15px;
+    margin-left:15px;
+    width:170px;
+    height:170px;
+}
+
+#background {
+    float:middle;
+    margin:auto;
+    width:50px;
+    height:50px;
+}
+
+p   {
+    margin-left:15px;
+    margin-left:15px;
+}
+
+.wrap {
+    width:800px;
+    background-color:beige;
+    float:left;
+    text-align:auto;
+}
+
+aside {
+
+    background-color:brown;
+    width:120px;
+}
+
+.wrap, aside {
+    height:900px;
+}
+
+footer {
+    clear:both
+}

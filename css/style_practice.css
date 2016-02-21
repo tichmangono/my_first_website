@@ -1,0 +1,29 @@
+    h1  {
+        font-size: 100px;
+        font-family: sans-serif, Helvetica;
+        text-align: center:
+        margin-top: 50px;
+        letter-spacing: -1px;
+        color: red;
+        text-transform: upper;
+        text-shadow: 5px 5px black;
+        font-variant: small-caps;
+        }
+
+    .box {
+    width:400px;
+    height: 400px;
+    margin:auto;
+    background: red;
+    position:relative;
+    top:100px;
+    right: 300px;
+    bottom: 700px;
+    }
+    
+    .wrap {
+    width:800px;
+    height:600px;
+    margin:auto;
+    background:#e3e3e3;
+    }
